@@ -7,11 +7,7 @@ import 'package:flutter/services.dart';
 import 'package:new_version/new_version.dart';
 
 
-
-
 ////////////////////////////////////////
-
-
 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
@@ -66,18 +62,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
